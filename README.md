@@ -1,3 +1,3 @@
-this is web site made by django framework in python
+this is web site made by django framework in python and HTML
 
-bu pythondagi django frameworkida yasalgan web sayt
+bu pythondagi django frameworki va HTMLda yasalgan web sayt
